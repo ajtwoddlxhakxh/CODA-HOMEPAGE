@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CODA</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .container {
+      display: flex;
+      align-items: center;
+      gap: 40px;
+      max-width: 1000px;
+      padding: 20px;
+    }
+
+    .logo {
+      width: 300px;
+      height: auto;
+    }
+
+    .text-box {
+      max-width: 370px;
+    }
+
+    .text-box h2 {
+      margin-bottom: 20px;
+      font-size: 20px;
+    }
+
+    .text-box p {
+      line-height: 1.6;
+      width: 350px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="./Group 11 1.png" class="logo" alt="coda logo">
+    <div class="text-box">
+      <h1>As a coding club, the coda is a symbol that represents the ending of the score.</h1>
+      <p>코다는 열정, 노력, 끈기를 가진 누구나 문은 열려있습니다.
+      처음 배우는 분 혹은 프로젝트 경험이 필요하신 분까지 도전해보세요.</p>
+    </div>
+  </div>
+</body>
+</html>
